@@ -68,32 +68,32 @@ Note: You can generate keys from https://cryptotools.net/rsagen, select Asymmetr
 
 - Registration Page with Validation from MongoDB
 
-<img src="JWT_NEW/ui/public/Register With Validation.png" alt="Alt Text" width="30%" height="30%">
+<img src="./ui/public/Register With Validation.png" alt="Alt Text" width="30%" height="30%">
 <br /><br />
 
 - Login Validation with MongoDB
 
-<img src="JWT_NEW/ui/public/Login Validation.png" alt="Alt Text" >
+<img src="./ui/public/Login Validation.png" alt="Alt Text" >
 <br /><br />
 
 - Login add tokens to cookies
 
-<img src="JWT_NEW/ui/public/Login added access and refresh token.png" alt="Alt Text" >
+<img src="./ui/public/Login added access and refresh token.png" alt="Alt Text" >
 <br /><br />
 
 - Authorized User getting data
 
-<img src="JWT_NEW/ui/public/Getting Data while session is active and valid.png" alt="Alt Text" >
+<img src="./ui/public/Getting Data while session is active and valid.png" alt="Alt Text" >
 <br /><br />
 
 - Logout Will Remove all token so user cannot access session data.
 
-<img src="JWT_NEW/ui/public/Logout remove all token.png" alt="Alt Text" >
+<img src="./ui/public/Logout remove all token.png" alt="Alt Text" >
 <br /><br />
 
 - User cannot access data after session out
 
-<img src="JWT_NEW/ui/public/Not able to access data after logout.png" alt="Alt Text" >
+<img src="./ui/public/Not able to access data after logout.png" alt="Alt Text" >
 <br /><br />
 
 ## Conclusion
